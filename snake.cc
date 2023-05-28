@@ -1,5 +1,3 @@
-#include "experimental/users/aaroncorona/cpp/snake/snake.h"
-
 #include <iostream>  // for std::endl
 #include <ostream>
 
